@@ -103,6 +103,7 @@ sudo nmap -sU -sV -A -T4 -v -oN udp.txt ip
 | 143 | imap
 | 22 | ssh
 | 53 | dns
+| 139,445 | smb
 
 
 
